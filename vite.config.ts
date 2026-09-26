@@ -6,5 +6,5 @@ export default defineConfig({
   server: {
     port: 5173,
   },
-  base: '/fastikmpp.github.io/'
+  base: '/FasTIKmpp.github.io/'
 })
