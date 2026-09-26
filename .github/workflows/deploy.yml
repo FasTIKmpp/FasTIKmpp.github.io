@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: 'main' # или 'master', если ваша главная ветка называется так
+    branches: 'time-currency' # или 'master', если ваша главная ветка называется так
 
 # Разрешения для работы с GitHub Pages
 permissions:
